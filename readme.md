@@ -1,9 +1,10 @@
----
-title: 'The Louisiana-Minnesota-Dallas crisis across media and time: a big data exercise'
-author: "Risto Hinno and Pablo Bernabeu"
-date: "July 2016"
-output: html_document
----
+RPubs version: https://rpubs.com/pcbernabeu/Louisiana-Minnesota-Dallas-crisis
+
+# The Louisiana-Minnesota-Dallas crisis across media and time: a big data exercise
+
+Risto Hinno and Pablo Bernabeu
+
+July 2016
 
 ## 1.  Introduction
 
