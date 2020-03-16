@@ -1,4 +1,4 @@
-### [See full document version](https://rpubs.com/pcbernabeu/Louisiana-Minnesota-Dallas-crisis)
+### [See full document version](https://pablobernabeu.github.io/2016/01/01/the-louisiana-minnesota-dallas-crisis-across-media-and-time-a-big-data-exercise/)
 
 # The Louisiana-Minnesota-Dallas crisis across media and time: a big data exercise
 
