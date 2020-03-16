@@ -78,15 +78,15 @@ To start, it may stand out that different topics appear across sources, all the 
 
 For greater visualization, we also provide some captions from the interactive LDAvis tool below. Please click on the figure titles to enjoy the full visualization.
 
-![<br> [&uarr; LDAvis visualization of NYT articles (click to explore in detail)](http://rristo.github.io/NYT/index.html){target="_top"}](https://github.com/RRisto/Summer-school-course-project/raw/master/BLM/Untitled3.png)
+![<br> [&uarr; LDAvis visualization of NYT articles (click to explore in detail)](http://rristo.github.io/NYT/index.html)](https://github.com/RRisto/Summer-school-course-project/raw/master/BLM/Untitled3.png)
 
 <br>
 
-![<br> [&uarr; LDAvis visualization of Facebook comments (click to explore in detail)](http://rristo.github.io/Facebook/index.html#topic=0&lambda=1&term=){target="_top"}](https://github.com/RRisto/Summer-school-course-project/raw/master/BLM/Untitled1.png)
+![<br> [&uarr; LDAvis visualization of Facebook comments (click to explore in detail)](http://rristo.github.io/Facebook/index.html#topic=0&lambda=1&term=)](https://github.com/RRisto/Summer-school-course-project/raw/master/BLM/Untitled1.png)
 
 <br>
 
-![<br> [&uarr; LDAvis visualization of tweets (click to explore in detail)](http://rristo.github.io/Twitter/index.html#topic=0&lambda=1&term=){target="_top"}](https://github.com/RRisto/Summer-school-course-project/raw/master/BLM/Untitled.png)
+![<br> [&uarr; LDAvis visualization of tweets (click to explore in detail)](http://rristo.github.io/Twitter/index.html#topic=0&lambda=1&term=)](https://github.com/RRisto/Summer-school-course-project/raw/master/BLM/Untitled.png)
 
 <br>
 
@@ -138,7 +138,7 @@ The data mass probed in these analyses could be described as medium-sized data i
 
 ## Additional materials
 
-All materials are made public on the [RRisto GitHub page](https://github.com/RRisto/Summer-school-course-project){target="_top"}.
+All materials are made public on the [RRisto GitHub page](https://github.com/RRisto/Summer-school-course-project).
 
 ## References
 
