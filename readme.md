@@ -156,4 +156,4 @@ Saif, H., He, Y., Fernandez, M., & Alani, H. (2016). Contextual semantics for se
 
 Thelwall, M., Buckley, K., & Paltoglou, G. (2011). Sentiment in Twitter events. _Journal Of The American Society For Information Science And Technology, 62_(2), 406-418.
 
-Wang P., He W., & Zhao J. (2014). A Tale of Three Social Networks: User Activity Comparisons across Facebook, Twitter, and Foursquare. _IEEE Internet Computing, 18_(2), 10-15.
+Wang, P., He, W., & Zhao, J. (2014). A Tale of Three Social Networks: User Activity Comparisons across Facebook, Twitter, and Foursquare. _IEEE Internet Computing, 18_(2), 10-15.
