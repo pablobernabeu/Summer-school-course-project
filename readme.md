@@ -1,5 +1,7 @@
 ### [See full document version](https://pablobernabeu.github.io/2016/the-louisiana-minnesota-texas-crisis-across-media-and-time-a-big-data-exercise/)
 
+<br>
+
 # The Louisiana-Minnesota-Texas crisis across media and time: a big data exercise
 
 Risto Hinno and Pablo Bernabeu
